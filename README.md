@@ -1,2 +1,5 @@
-# RSA-Large-File-Efficiency
-Simple Python3 Experiment to observe efficiency of RSA on Large files and why PGP/GPG's approach is more efficient. [Data Privacy (CSD3005) Lab]
+# RSA Large File Efficiency Experiment
+[Data Privacy (CSD3005) Lab]
+
+#### [Lab Record](https://github.com/Saket-Upadhyay/RSA-Large-File-Efficiency-Compare/blob/main/LAB_RECORD.pdf)
+#### [Article]()
